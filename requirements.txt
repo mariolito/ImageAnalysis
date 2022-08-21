@@ -1,0 +1,6 @@
+statsmodels==0.13.2
+torch==1.12.1
+opencv-python==4.6.0.66
+Pillow==9.0.0
+scikit-image==0.19.3
+torchvision==0.13.1
